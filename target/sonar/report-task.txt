@@ -1,0 +1,6 @@
+projectKey=com.bishal.test.mvn:mvnP
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.bishal.test.mvn:mvnP
+ceTaskId=AYjndRZtHm4_1DbUrgm_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYjndRZtHm4_1DbUrgm_
