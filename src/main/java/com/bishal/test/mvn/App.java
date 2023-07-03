@@ -8,6 +8,11 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+       Sport c=new Cricket();
+       Sport f=new Football();
+       Sport t=new Tennis();
+       c.startplay();
+       f.startplay();
+       t.startplay();
     }
 }
